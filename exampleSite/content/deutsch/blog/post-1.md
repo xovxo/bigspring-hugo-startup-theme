@@ -1,17 +1,11 @@
 ---
-title: "Dies ist eine deutsche Testseite"
-date: 2020-04-18T10:07:21+06:00
-# post image
-image: "images/blog/post-1.jpg"
-# post type (regular/featured)
-type: "featured"
-# meta description
-description: "Dies ist die Metabeschreibung"
-# post draft
-draft: false
+title: Dies ist eine deutsche Testseite
+date: 2020-04-18T10:07:21.000+06:00
+image: "/images/service-1.png"
+type: featured
+description: Dies ist die Metabeschreibung
+
 ---
-
-
 #### Exemplarische Überschrift
 
 Hier ist ein Beispiel für eine Überschrift. Sie können diese Überschrift verwenden, indem Sie den Markdownify-Regeln folgen. Zum Beispiel: Verwenden Sie `#` für Überschrift 1 und `######` für Überschrift 6.
